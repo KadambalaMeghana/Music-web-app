@@ -1,0 +1,11 @@
+{
+  "name": "music-web-application",
+  "version": "1.0.0",
+  "description": "Function 1) Random Song 2) Previous Song 3) Next Song 4) Repeat Song",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
